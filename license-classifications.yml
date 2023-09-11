@@ -1716,14 +1716,14 @@ categorizations:
 
   - id: "CC-BY-NC-SA-4.0"
     categories:
-      - "source-available"
+      - "copyleft-strong"
       - "property:non-commercial"
       - "property:include-in-notice-file"
       - "property:creativecommons"
 
   - id: "CC-BY-NC-SA-2.5"
     categories:
-      - "source-available"
+      - "copyleft-strong"
       - "property:non-commercial"
       - "property:include-in-notice-file"
       - "property:creativecommons"
@@ -3470,7 +3470,7 @@ categorizations:
   # https://spdx.org/licenses/CC-BY-NC-SA-1.0.html
   - id: "CC-BY-NC-SA-1.0"
     categories:
-      - "free-restricted"
+      - "copyleft-strong"
       - "property:include-in-notice-file"
       - "property:non-commercial"
       - "property:creativecommons"
@@ -3478,7 +3478,7 @@ categorizations:
   # https://spdx.org/licenses/CC-BY-NC-SA-2.0.html
   - id: "CC-BY-NC-SA-2.0"
     categories:
-      - "free-restricted"
+      - "copyleft-strong"
       - "property:include-in-notice-file"
       - "property:non-commercial"
       - "property:creativecommons"
@@ -3486,7 +3486,7 @@ categorizations:
   # https://spdx.org/licenses/CC-BY-NC-SA-3.0.html
   - id: "CC-BY-NC-SA-3.0"
     categories:
-      - "free-restricted"
+      - "copyleft-strong"
       - "property:include-in-notice-file"
       - "property:non-commercial"
       - "property:creativecommons"
